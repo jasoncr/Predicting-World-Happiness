@@ -4,10 +4,10 @@ In this project, I worked with 5 other people to answer the question of: Which c
 
 While we were going through the happiness data, we were curious about other factors about the countries that might correlate to happiness. For example, we looked at each country's GDP, phone ownership, military expenditure, literary rate, among other factors. What we found was median household income has probably the strongest correlation. That visualization is shown below. 
 
-<img src="Images/happiness_vs_median.png" width=300>
+<img src="Images/happy_vs_median.png" width=300>
 
 We also used a Tableau visualization to show how a country's happiness changed over time, from 2015 to the projected happiness in 2025. I chose the United States and you can see the visualization below.  
 
-<img src="Images/us_happy_over_time.png width=300>
+<img src="Images/us_happy_over_time.png" width=300>
           
 Lastly, we used a machine learning algorithm, train-test-split, to take in the factors we compiled and predict the happiness of a chosen country. We fed into the model all the metrics previously discussed, and our model predicted the accuracy to .74. Therefore, if given those same metrics, we can predict the happiness of an unknown country with an accuracy of 74%.  
