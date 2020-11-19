@@ -1,3 +1,5 @@
+The link to this website is here: https://jasoncr.github.io/Predicting-World-Happiness/
+
 In this project, I worked with 5 other people to answer the question of: Which countries would be the happiest in the future? To answer this, we created a website to display our results. The original data we started with was The World Happiness Reports, and then we did a linear regression which went as far forward as the data went backwards. Therefore, we projected the which countries would be the happiest, least happy, and moved the most spots both positively and negatively. Those results are displayed in the table below. We also included the US rankings for those interested. 
 
 <img src="Images/findings_table.png" width=800>
